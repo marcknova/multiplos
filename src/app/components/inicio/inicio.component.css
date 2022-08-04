@@ -1,0 +1,18 @@
+.mx {
+    width: 100%;
+    height: 100%;
+    margin: 2rem 0;
+}
+
+form {
+    margin: 1rem;
+}
+
+.textError {
+    font-size: 1rem;
+}
+
+.spinner-border{
+    width: 1.5rem;
+    height: 1.5rem;
+}
